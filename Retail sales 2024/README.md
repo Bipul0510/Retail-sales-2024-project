@@ -4,7 +4,6 @@ This is a complete end-to-end data analytics mini-project with synthetic retail 
 
 
 
-
 List of files Included
 
 * retail\_sales\_2024.csv
@@ -21,4 +20,5 @@ List of files Included
 * Execute the SQL files in SQLite/Postgres/MySQL to recreate the dataset and run analysis queries.
 * Share the PDF and present the PPTX to stakeholders.
 * Re-run this notebook to regenerate everything end-to-end.
+
 
