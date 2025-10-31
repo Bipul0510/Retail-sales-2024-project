@@ -9,3 +9,4 @@ Files included:
 * retail_sales_presentation_2024.pptx
 * retail_sales_report_2024.pdf
 * retail_sales_schema.sql
+* Retail sales 2024.docx
