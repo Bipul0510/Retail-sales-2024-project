@@ -12,7 +12,6 @@ List of files Included
 * retail\_sales\_analysis\_queries.sql
 * retail\_sales\_report\_2024.pdf
 * retail\_sales\_presentation\_2024.pptx
-* README.md
 
 ## Usage
 
@@ -20,5 +19,6 @@ List of files Included
 * Execute the SQL files in SQLite/Postgres/MySQL to recreate the dataset and run analysis queries.
 * Share the PDF and present the PPTX to stakeholders.
 * Re-run this notebook to regenerate everything end-to-end.
+
 
 
